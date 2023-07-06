@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📫 How to reach me: XMPP or Email at vulture@riseup.net
-- My PGP Public Key for encrypted comms.
+My PGP Public Key for encrypted comms.
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGSnGMwBEADGCNsW5AfkllmMbXS8NenPNblbV0jAmpoktconeimzQa2pGmm5
