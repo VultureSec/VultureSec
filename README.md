@@ -2,7 +2,8 @@
 
 - 📫 How to reach me: XMPP or Email at vulture@riseup.net
 
-My PGP Public Key for encrypted comms.
+My PGP Public Key for encrypted communication:
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBGSnGMwBEADGCNsW5AfkllmMbXS8NenPNblbV0jAmpoktconeimzQa2pGmm5
@@ -65,7 +66,7 @@ VnhqTlXB1/ktte3FSDc2qo8rZs7T4hKd3pFqv7ocAWWevdnmNcHfa7iW3WUOFK3s
 uxY8aig/3Qp47G+YgS5hh2g7lQ+Ht22JSQiNUwuCOgGLXCtjs4spd6/ZgZ2NZHrf
 OdfDA3Yy40auqqspHtYtA+KK3aT3rAArKEoc+qRhyKdaRFkdyuODrajZ
 =HE4F
------END PGP PUBLIC KEY BLOCK-----
+-----END PGP PUBLIC KEY BLOCK-----```
 
 <!--
 **VultureSec/VultureSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
