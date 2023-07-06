@@ -1,0 +1,82 @@
+### Hi there 👋
+
+- 📫 How to reach me: XMPP or Email at vulture@riseup.net
+- My PGP Public Key for encrypted comms.
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+=HE4F
+-----END PGP PUBLIC KEY BLOCK-----
+
+<!--
+**VultureSec/VultureSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
