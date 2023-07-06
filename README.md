@@ -1,6 +1,6 @@
 ### Vulture Security 
 
-- 📫 How to reach me: XMPP or Email at vulture@riseup.net
+- 📫 How to reach me: [Email](vulture@riseup.net) or [XMPP](vulture@disroot.org)
 
 My PGP Public Key for encrypted communication:
 ```
